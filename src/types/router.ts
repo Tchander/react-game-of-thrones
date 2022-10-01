@@ -1,4 +1,4 @@
-import {ROUTER_PATHS} from "../enums";
+import { ROUTER_PATHS } from '../enums';
 
 export interface IRouter {
     path: ROUTER_PATHS;
