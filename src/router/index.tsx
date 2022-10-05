@@ -1,6 +1,6 @@
 import { Navigate } from 'react-router-dom';
-import Home from '../pages/Home';
-import Houses from '../pages/Houses';
+import Home from '../pages/Home/Home';
+import Houses from '../pages/Houses/Houses';
 import { IRouter } from '../types';
 import { ROUTER_PATHS } from '../enums';
 
