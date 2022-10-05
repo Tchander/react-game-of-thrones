@@ -6,7 +6,7 @@ const Houses = () => {
     const dispatch = useAppDispatch();
 
     useEffect(() => {
-        dispatch(fetchHouses())
+        dispatch(fetchHouses());
     });
 
     return <div>Houses</div>;

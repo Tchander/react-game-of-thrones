@@ -1,4 +1,4 @@
-export interface IHouses {
+export interface IHouse {
     url: string;
     name: string;
     region: string;
@@ -20,5 +20,11 @@ export interface IHouses {
 export interface IHousesState {
     loading: boolean;
     error: string;
-    houses: IHouses[];
+    houses: IHouse[];
+    house: IHouse | null;
+}
+
+export interface IHousesSuccess {
+    data: IHouse[];
+    name?: string;
 }
