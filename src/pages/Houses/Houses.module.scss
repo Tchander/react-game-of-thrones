@@ -1,30 +1,25 @@
 .map {
     position: relative;
-    &:after {
-        content: '';
-        display: block;
+
+    &__background {
         position: absolute;
         top: 0;
         left: 0;
         width: 100%;
-        height: 1783px;
-        background: url('../../../src/assets/images/background_small.webp') no-repeat;
-        background-size: cover;
-        opacity: 0.5;
+        max-height: 1783px;
+        opacity: 0.75;
         z-index: -1;
     }
 
     &__emblemWrapper {
         position: absolute;
-        //top: 425px;
-        //left: 620px;
         width: 80px;
-        box-shadow: 0 -15px 15px rgba(0,0,0,0.15);
+        box-shadow: 0 -40px 20px rgba(0,0,0,0.15);
         cursor: pointer;
         transition: transform 500ms ease-in-out;
 
         &:hover {
-            transform: scale(1.1);
+            transform: scale(1.2);
         }
     }
 
