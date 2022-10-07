@@ -30,6 +30,7 @@ export const enum HOUSES_NAMES {
     ESTREN = 'House Estren of Wyndhall',
     FARMAN = 'House Farman of Faircastle',
     FLINT = 'House Flint of Widow\'s Watch',
+    FLORENT = 'House Florent of Brightwater Keep',
     FOOTE = 'House Foote of Nightsong',
     FOSSOWAY = 'House Fossoway of New Barrel',
     FOWLER = 'House Fowler of Skyreach',

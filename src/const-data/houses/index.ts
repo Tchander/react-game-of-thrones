@@ -243,6 +243,14 @@ export const HOUSES: IHouses[] = [
         },
     },
     {
+        name: HOUSES_NAMES.FLORENT,
+        title: 'placeholder',
+        desktop: {
+            top: '1465px',
+            left: '415px',
+        },
+    },
+    {
         name: HOUSES_NAMES.FLINT,
         title: 'placeholder',
         desktop: {
