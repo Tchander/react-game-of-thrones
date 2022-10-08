@@ -18,6 +18,10 @@
         cursor: pointer;
         transition: transform 500ms ease-in-out;
 
+        &_main {
+            width: 50px;
+        }
+
         &:hover {
             transform: scale(1.2);
         }

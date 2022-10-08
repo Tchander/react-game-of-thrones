@@ -37,7 +37,7 @@ const Houses = () => {
                     >
                         <img
                             className={cl.map__emblem}
-                            src={require(`../../assets/images/houses/${house.title.toLowerCase()}.png`)}
+                            src={require(`../../assets/images/houses/${house.title.toLowerCase()}.webp`)}
                             alt={house.title}
                         />
                     </div>

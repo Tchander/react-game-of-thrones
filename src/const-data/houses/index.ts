@@ -4,7 +4,7 @@ import {IHouses} from "../../types";
 export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.ALLYRION,
-        title: 'placeholder',
+        title: 'Allyrion',
         desktop: {
             top: '1590px',
             left: '840px',
@@ -28,7 +28,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.BANEFORT,
-        title: 'placeholder',
+        title: 'Banefort',
         desktop: {
             top: '1000px',
             left: '460px',
@@ -36,7 +36,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.BAR_EMMON,
-        title: 'placeholder',
+        title: 'Bar Emmon',
         desktop: {
             top: '1170px',
             left: '920px',
@@ -52,7 +52,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.BELMORE,
-        title: 'placeholder',
+        title: 'Belmore',
         desktop: {
             top: '880px',
             left: '735px',
@@ -60,7 +60,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.BLACKMONT,
-        title: 'placeholder',
+        title: 'Blackmont',
         desktop: {
             top: '1525px',
             left: '540px',
@@ -68,7 +68,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.BLACKWOOD,
-        title: 'placeholder',
+        title: 'Blackwood',
         desktop: {
             top: '955px',
             left: '595px',
@@ -84,7 +84,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.BORRELL,
-        title: 'placeholder',
+        title: 'Borrell',
         desktop: {
             top: '750px',
             left: '745px',
@@ -92,7 +92,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.BRACKEN,
-        title: 'placeholder',
+        title: 'Bracken',
         desktop: {
             top: '995px',
             left: '645px',
@@ -100,7 +100,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.BRAX,
-        title: 'placeholder',
+        title: 'Brax',
         desktop: {
             top: '1120px',
             left: '500px',
@@ -108,7 +108,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.BRUNE,
-        title: 'placeholder',
+        title: 'Brune',
         desktop: {
             top: '1040px',
             left: '915px',
@@ -116,7 +116,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.CARON,
-        title: 'placeholder',
+        title: 'Caron',
         desktop: {
             top: '1445px',
             left: '595px',
@@ -124,7 +124,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.CASWELL,
-        title: 'placeholder',
+        title: 'Caswell',
         desktop: {
             top: '1250px',
             left: '665px',
@@ -140,7 +140,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.COLDWATER,
-        title: 'placeholder',
+        title: 'Coldwater',
         desktop: {
             top: '785px',
             left: '830px',
@@ -148,7 +148,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.CONNINGTON,
-        title: 'placeholder',
+        title: 'Connington',
         desktop: {
             top: '1360px',
             left: '840px',
@@ -156,7 +156,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.CRAKEHALL,
-        title: 'placeholder',
+        title: 'Crakehall',
         desktop: {
             top: '1245px',
             left: '355px',
@@ -164,7 +164,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.CUY,
-        title: 'placeholder',
+        title: 'Cuy',
         desktop: {
             top: '1630px',
             left: '445px',
@@ -172,7 +172,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.DALT,
-        title: 'placeholder',
+        title: 'Dalt',
         desktop: {
             top: '1650px',
             left: '890px',
@@ -180,7 +180,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.DARRY,
-        title: 'placeholder',
+        title: 'Darry',
         desktop: {
             top: '1000px',
             left: '695px',
@@ -188,7 +188,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.DAYNE,
-        title: 'placeholder',
+        title: 'Dayne',
         desktop: {
             top: '1585px',
             left: '510px',
@@ -196,7 +196,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.DONDARRION,
-        title: 'placeholder',
+        title: 'Dondarrion',
         desktop: {
             top: '1430px',
             left: '715px',
@@ -204,7 +204,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.DRUMM,
-        title: 'placeholder',
+        title: 'Drumm',
         desktop: {
             top: '910px',
             left: '400px',
@@ -212,7 +212,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.DUSTIN,
-        title: 'placeholder',
+        title: 'Dustin',
         desktop: {
             top: '625px',
             left: '510px',
@@ -220,7 +220,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.ERROL,
-        title: 'placeholder',
+        title: 'Errol',
         desktop: {
             top: '1275px',
             left: '850px',
@@ -228,7 +228,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.ESTERMONT,
-        title: 'placeholder',
+        title: 'Estermont',
         desktop: {
             top: '1455px',
             left: '960px',
@@ -236,7 +236,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.ESTREN,
-        title: 'placeholder',
+        title: 'Estren',
         desktop: {
             top: '980px',
             left: '510px',
@@ -244,7 +244,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.FARMAN,
-        title: 'placeholder',
+        title: 'Farman',
         desktop: {
             top: '1080px',
             left: '360px',
@@ -252,7 +252,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.FLORENT,
-        title: 'placeholder',
+        title: 'Florent',
         desktop: {
             top: '1465px',
             left: '415px',
@@ -260,7 +260,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.FLINT,
-        title: 'placeholder',
+        title: 'Flint',
         desktop: {
             top: '630px',
             left: '930px',
@@ -268,7 +268,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.FOSSOWAY,
-        title: 'placeholder',
+        title: 'Fossoway',
         desktop: {
             top: '1310px',
             left: '625px',
@@ -276,7 +276,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.FOWLER,
-        title: 'placeholder',
+        title: 'Fowler',
         desktop: {
             top: '1555px',
             left: '610px',
@@ -292,7 +292,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.GARGALEN,
-        title: 'placeholder',
+        title: 'Gargalen',
         desktop: {
             top: '1660px',
             left: '830px',
@@ -300,7 +300,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.GLOVER,
-        title: 'placeholder',
+        title: 'Glover',
         desktop: {
             top: '395px',
             left: '510px',
@@ -308,7 +308,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.GOODBROTHER,
-        title: 'placeholder',
+        title: 'Goodbrother',
         desktop: {
             top: '945px',
             left: '335px',
@@ -316,7 +316,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.GRAFTON,
-        title: 'placeholder',
+        title: 'Grafton',
         desktop: {
             top: '980px',
             left: '940px',
@@ -324,7 +324,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.GRANDISON,
-        title: 'placeholder',
+        title: 'Grandison',
         desktop: {
             top: '1265px',
             left: '745px',
@@ -332,7 +332,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.GREENFIELD,
-        title: 'placeholder',
+        title: 'Greenfield',
         desktop: {
             top: '1235px',
             left: '500px',
@@ -348,7 +348,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.GRIMM,
-        title: 'placeholder',
+        title: 'Grimm',
         desktop: {
             top: '1375px',
             left: '355px',
@@ -356,7 +356,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.HARLAW,
-        title: 'placeholder',
+        title: 'Harlaw',
         desktop: {
             top: '940px',
             left: '455px',
@@ -364,7 +364,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.HIGHTOWER,
-        title: 'placeholder',
+        title: 'Hightower',
         desktop: {
             top: '1535px',
             left: '405px',
@@ -372,7 +372,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.HUNTER,
-        title: 'placeholder',
+        title: 'Hunter',
         desktop: {
             top: '865px',
             left: '920px',
@@ -380,7 +380,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.JORDAYNE,
-        title: 'placeholder',
+        title: 'Jordayne',
         desktop: {
             top: '1540px',
             left: '795px',
@@ -404,7 +404,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.LEFFORD,
-        title: 'placeholder',
+        title: 'Lefford',
         desktop: {
             top: '1060px',
             left: '505px',
@@ -412,7 +412,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.LYDDEN,
-        title: 'placeholder',
+        title: 'Lydden',
         desktop: {
             top: '1175px',
             left: '525px',
@@ -420,7 +420,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.LYNDERLY,
-        title: 'placeholder',
+        title: 'Lynderly',
         desktop: {
             top: '840px',
             left: '870px',
@@ -428,7 +428,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.MALLISTER,
-        title: 'placeholder',
+        title: 'Mallister',
         desktop: {
             top: '905px',
             left: '545px',
@@ -436,7 +436,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.MANDERLY,
-        title: 'placeholder',
+        title: 'Manderly',
         desktop: {
             top: '650px',
             left: '700px',
@@ -444,7 +444,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.MANWOODY,
-        title: 'placeholder',
+        title: 'Manwoody',
         desktop: {
             top: '1500px',
             left: '620px',
@@ -452,7 +452,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.MARBRAND,
-        title: 'placeholder',
+        title: 'Marbrand',
         desktop: {
             top: '1100px',
             left: '450px',
@@ -468,7 +468,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.MEADOWS,
-        title: 'placeholder',
+        title: 'Meadows',
         desktop: {
             top: '1305px',
             left: '695px',
@@ -476,7 +476,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.MERRYWEATHER,
-        title: 'placeholder',
+        title: 'Merryweather',
         desktop: {
             top: '1350px',
             left: '580px',
@@ -484,7 +484,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.MERTYNS,
-        title: 'placeholder',
+        title: 'Mertyns',
         desktop: {
             top: '1440px',
             left: '885px',
@@ -492,7 +492,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.MOOTON,
-        title: 'placeholder',
+        title: 'Mooton',
         desktop: {
             top: '1050px',
             left: '790px',
@@ -508,7 +508,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.MORRIGEN,
-        title: 'placeholder',
+        title: 'Morrigen',
         desktop: {
             top: '1415px',
             left: '825px',
@@ -516,7 +516,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.OAKHEART,
-        title: 'placeholder',
+        title: 'Oakheart',
         desktop: {
             top: '1320px',
             left: '390px',
@@ -524,7 +524,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.PEAKE,
-        title: 'placeholder',
+        title: 'Peake',
         desktop: {
             top: '1450px',
             left: '545px',
@@ -532,7 +532,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.PIPER,
-        title: 'placeholder',
+        title: 'Piper',
         desktop: {
             top: '1090px',
             left: '565px',
@@ -540,7 +540,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.PRESTER,
-        title: 'placeholder',
+        title: 'Prester',
         desktop: {
             top: '1170px',
             left: '335px',
@@ -548,7 +548,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.QORGYLE,
-        title: 'placeholder',
+        title: 'Qorgyle',
         desktop: {
             top: '1625px',
             left: '580px',
@@ -556,7 +556,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.REDFORT,
-        title: 'placeholder',
+        title: 'Redfort',
         desktop: {
             top: '975px',
             left: '840px',
@@ -564,7 +564,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.REDWYNE,
-        title: 'placeholder',
+        title: 'Redwyne',
         desktop: {
             top: '1655px',
             left: '345px',
@@ -572,7 +572,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.REED,
-        title: 'placeholder',
+        title: 'Reed',
         desktop: {
             top: '765px',
             left: '585px',
@@ -580,7 +580,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.ROYCE,
-        title: 'placeholder',
+        title: 'Royce',
         desktop: {
             top: '920px',
             left: '945px',
@@ -588,7 +588,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.ROWAN,
-        title: 'placeholder',
+        title: 'Rowan',
         desktop: {
             top: '1310px',
             left: '505px',
@@ -596,7 +596,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.RYKKER,
-        title: 'placeholder',
+        title: 'Rykker',
         desktop: {
             top: '1140px',
             left: '825px',
@@ -604,7 +604,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.SANTAGAR,
-        title: 'placeholder',
+        title: 'Santagar',
         desktop: {
             top: '1540px',
             left: '960px',
@@ -612,7 +612,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.SELMY,
-        title: 'placeholder',
+        title: 'Selmy',
         desktop: {
             top: '1435px',
             left: '660px',
@@ -620,7 +620,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.SMALLWOOD,
-        title: 'placeholder',
+        title: 'Smallwood',
         desktop: {
             top: '1075px',
             left: '625px',
@@ -628,7 +628,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.STAEDMON,
-        title: 'placeholder',
+        title: 'Staedmon',
         desktop: {
             top: '1230px',
             left: '900px',
@@ -644,7 +644,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.STOKEWORTH,
-        title: 'placeholder',
+        title: 'Stokeworth',
         desktop: {
             top: '1120px',
             left: '755px',
@@ -652,7 +652,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.SWANN,
-        title: 'placeholder',
+        title: 'Swann',
         desktop: {
             top: '1440px',
             left: '775px',
@@ -660,7 +660,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.SWYFT,
-        title: 'placeholder',
+        title: 'Swyft',
         desktop: {
             top: '1245px',
             left: '430px',
@@ -668,7 +668,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.TALLHART,
-        title: 'placeholder',
+        title: 'Tallhart',
         desktop: {
             top: '540px',
             left: '535px',
@@ -677,6 +677,7 @@ export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.TARGARYEN,
         title: 'Targaryen',
+        main: true,
         desktop: {
             top: '1200px',
             left: '755px',
@@ -700,7 +701,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.THENN,
-        title: 'placeholder',
+        title: 'Thenn',
         desktop: {
             top: '30px',
             left: '570px',
@@ -708,7 +709,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.TOLAND,
-        title: 'placeholder',
+        title: 'Toland',
         desktop: {
             top: '1535px',
             left: '910px',
@@ -716,7 +717,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.TOLLETT,
-        title: 'placeholder',
+        title: 'Tollett',
         desktop: {
             top: '940px',
             left: '895px',
@@ -740,7 +741,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.ULLER,
-        title: 'placeholder',
+        title: 'Uller',
         desktop: {
             top: '1610px',
             left: '665px',
@@ -756,7 +757,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.VELARYON,
-        title: 'placeholder',
+        title: 'Velaryon',
         desktop: {
             top: '1110px',
             left: '910px',
@@ -764,7 +765,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.WAXLEY,
-        title: 'placeholder',
+        title: 'Waxley',
         desktop: {
             top: '1030px',
             left: '835px',
@@ -772,7 +773,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.WAYNWOOD,
-        title: 'placeholder',
+        title: 'Waynwood',
         desktop: {
             top: '920px',
             left: '845px',
@@ -780,7 +781,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.WESTERLING,
-        title: 'placeholder',
+        title: 'Westerling',
         desktop: {
             top: '1045px',
             left: '410px',
@@ -788,7 +789,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.WYLDE,
-        title: 'placeholder',
+        title: 'Wylde',
         desktop: {
             top: '1385px',
             left: '955px',
@@ -796,7 +797,7 @@ export const HOUSES: IHouses[] = [
     },
     {
         name: HOUSES_NAMES.YRONWOOD,
-        title: 'placeholder',
+        title: 'Yronwood',
         desktop: {
             top: '1530px',
             left: '695px',

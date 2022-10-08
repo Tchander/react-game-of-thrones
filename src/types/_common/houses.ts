@@ -8,5 +8,6 @@ interface IHouseMapCoordinates {
 export interface IHouses {
     name: HOUSES_NAMES;
     title: string;
+    main?: boolean;
     desktop: IHouseMapCoordinates;
 }
