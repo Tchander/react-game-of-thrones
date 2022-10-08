@@ -31,7 +31,7 @@ const Houses = () => {
                 {HOUSES.map((house) =>
                     <div
                         style={{top: house.desktop.top, left: house.desktop.left}}
-                        className={cl.map__emblemWrapper}
+                        className={`${cl.map__emblemWrapper} ${house?.mainHouse ? cl.map__emblemWrapper_main : ''}`}
                         key={house.title}
                         onClick={() => goToChosenHouse(house.name, house.title)}
                     >
@@ -40,6 +40,11 @@ const Houses = () => {
                             src={require(`../../assets/images/houses/${house.title.toLowerCase()}.webp`)}
                             alt={house.title}
                         />
+                        <div
+                            className={`${cl.map__emblemTitle} ${house?.mainHouse ? cl.map__emblemTitle_main : ''}`}
+                        >
+                            {house.title}
+                        </div>
                     </div>
                 )}
             </div>

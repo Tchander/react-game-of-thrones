@@ -13,9 +13,10 @@ export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.ARRYN,
         title: 'Arryn',
+        mainHouse: true,
         desktop: {
-            top: '915px',
-            left: '790px',
+            top: '920px',
+            left: '780px',
         },
     },
     {
@@ -45,9 +46,10 @@ export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.BARATHEON,
         title: 'Baratheon',
+        mainHouse: true,
         desktop: {
-            top: '1330px',
-            left: '890px',
+            top: '1325px',
+            left: '885px',
         },
     },
     {
@@ -135,7 +137,7 @@ export const HOUSES: IHouses[] = [
         title: 'Clegane',
         desktop: {
             top: '1180px',
-            left: '435px',
+            left: '445px',
         },
     },
     {
@@ -341,6 +343,7 @@ export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.GREYJOY,
         title: 'Greyjoy',
+        mainHouse: true,
         desktop: {
             top: '975px',
             left: '395px',
@@ -397,9 +400,10 @@ export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.LANNISTER,
         title: 'Lannister',
+        mainHouse: true,
         desktop: {
             top: '1150px',
-            left: '390px',
+            left: '385px',
         },
     },
     {
@@ -461,6 +465,7 @@ export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.MARTELL,
         title: 'Martell',
+        mainHouse: true,
         desktop: {
             top: '1605px',
             left: '940px',
@@ -637,6 +642,7 @@ export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.STARK,
         title: 'Stark',
+        mainHouse: true,
         desktop: {
             top: '500px',
             left: '640px',
@@ -677,9 +683,9 @@ export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.TARGARYEN,
         title: 'Targaryen',
-        main: true,
+        mainHouse: true,
         desktop: {
-            top: '1200px',
+            top: '1195px',
             left: '755px',
         },
     },
@@ -695,8 +701,8 @@ export const HOUSES: IHouses[] = [
         name: HOUSES_NAMES.TARTH,
         title: 'Tarth',
         desktop: {
-            top: '1320px',
-            left: '940px',
+            top: '1310px',
+            left: '945px',
         },
     },
     {
@@ -726,6 +732,7 @@ export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.TULLY,
         title: 'Tully',
+        mainHouse: true,
         desktop: {
             top: '1020px',
             left: '580px',
@@ -734,6 +741,7 @@ export const HOUSES: IHouses[] = [
     {
         name: HOUSES_NAMES.TYRELL,
         title: 'Tyrell',
+        mainHouse: true,
         desktop: {
             top: '1400px',
             left: '495px',
