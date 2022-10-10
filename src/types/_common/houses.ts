@@ -1,8 +1,8 @@
 import {HOUSES_NAMES} from "../../enums/houses";
 
 interface IHouseMapCoordinates {
-    top: string;
-    left: string;
+    top: number;
+    left: number;
 }
 
 export interface IHouses {

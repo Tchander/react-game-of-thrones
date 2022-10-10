@@ -30,7 +30,13 @@ const Houses = () => {
                 />
                 {HOUSES.map((house) =>
                     <div
-                        style={{top: house.desktop.top, left: house.desktop.left}}
+                        style=
+                            {
+                                {
+                                    top: `${house.desktop.top.toString()}px`,
+                                    left: `${house.desktop.left.toString()}px`
+                                }
+                            }
                         className={`${cl.map__emblemWrapper} ${house?.mainHouse ? cl.map__emblemWrapper_main : ''}`}
                         key={house.title}
                         onClick={() => goToChosenHouse(house.name, house.title)}
