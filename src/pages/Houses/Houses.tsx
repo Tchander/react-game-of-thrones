@@ -1,7 +1,5 @@
-import React, {useEffect} from 'react';
+import React from 'react';
 import {useNavigate} from 'react-router-dom';
-import {fetchHouses} from '../../store/actions/housesAction';
-import {useAppDispatch} from '../../hooks';
 import SectionContent from '../../components/_common/SectionContent/SectionContent';
 import cl from './Houses.module.scss';
 import {HOUSES} from "../../const-data/houses";
@@ -10,14 +8,12 @@ import {ROUTER_PATHS} from "../../enums";
 
 const Houses = () => {
     const router = useNavigate();
-    const dispatch = useAppDispatch();
-
-    useEffect(() => {
-        dispatch(fetchHouses());
-    });
 
     const goToChosenHouse = (name: HOUSES_NAMES, title: string): void => {
-        router(`${ROUTER_PATHS.HOUSES}/${title.toLowerCase()}`,{state: {name: name}});
+        router(
+            `${ROUTER_PATHS.HOUSES}/${title.toLowerCase()}`,
+            {state: {name: name, title: title.toLowerCase()}},
+        );
     }
 
     return(

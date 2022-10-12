@@ -1,4 +1,4 @@
-export const enum HOUSES_NAMES {
+export enum HOUSES_NAMES {
     ALLYRION = 'House Allyrion of Godsgrace',
     ARRYN = 'House Arryn of the Eyrie',
     BAELISH = 'House Baelish of Harrenhal',

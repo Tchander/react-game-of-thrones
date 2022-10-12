@@ -17,7 +17,7 @@ export const housesSlice = createSlice({
             state.loading = true;
         },
         fetchSuccess(state: IHousesState, action: PayloadAction<IHousesSuccess>) {
-            state.loading = false
+            state.loading = false;
             if (action.payload.name && action.payload.data.length === 1) {
                 state.house = action.payload.data[0];
             } else {
