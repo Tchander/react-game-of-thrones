@@ -5,7 +5,7 @@ import {fetchHouses} from '../../store/actions/housesAction';
 import SectionContent from '../../components/_common/SectionContent/SectionContent';
 import {getHouseNameFromUrl} from '../../helpers';
 import {ROUTER_PATHS} from '../../enums';
-import cl from "../Houses/Houses.module.scss";
+import cl from './House.module.scss';
 
 interface State {
     name: string;
@@ -38,14 +38,14 @@ const House = () => {
     return (
         <SectionContent>
             {house &&
-                <>
+                <div className={cl.house}>
+                    <div className={cl.house__name}>{house.name}</div>
                     <img
+                        className={cl.house__image}
                         src={require(`../../assets/images/houses/${image}.webp`)}
                         alt={image}
                     />
-                    <div>{house.name}</div>
-                    <div>{house.region}</div>
-                </>
+                </div>
             }
         </SectionContent>
     );

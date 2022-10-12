@@ -1,0 +1,22 @@
+@import '../../assets/styles/vars';
+
+.house {
+  display: flex;
+  flex-direction: column;
+  max-width: 1008px;
+  padding: 20px;
+  margin: 40px auto;
+  border: 1px solid $white;
+
+  &__name {
+    align-self: center;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+
+  &__image {
+    align-self: center;
+    width: 250px;
+  }
+}
